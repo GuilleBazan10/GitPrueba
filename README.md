@@ -1,3 +1,1 @@
-# GitPrueba
-
-Bazan Guillermo Andres
+# GitPrueba guillermo
